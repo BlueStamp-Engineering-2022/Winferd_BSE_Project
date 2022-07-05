@@ -22,7 +22,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 Hi, my name is Winferd Wei. I go to Lynbrook High School and I am a rising junior. For Milestone 1, I needed to set up all the software for the Magic Mirror and make sure everything was working. First, I had to download Node.js and then downloaded the Magic Mirror repository. Once I installed everything, I downloaded a few extra modules and tested it out. A challenging part was navigating Finder to find my files, since the magic mirror folder wasn’t appearing. In order to work around this problem, I learned how to access files using the terminal and how to edit them using sudo nano. One part I enjoyed was testing the code and watching it work.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")
+[![First Milestone](https://i3.ytimg.com/vi/c_VpKceF2iM/maxresdefault.jpg)](https://www.youtube.com/watch?v=c_VpKceF2iM&ab_channel=BlueStampEng "First Milestone")
 
 
 # Starter Project
