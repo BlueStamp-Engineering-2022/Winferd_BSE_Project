@@ -105,6 +105,22 @@ let config = {
 				broadcastNewsUpdates: true
 			}
 		},
+		{
+			module: "MMM-NBA",
+            		header: "MMM-NBA",
+            		position: "top_left",
+            		config: {
+                		animationSpeed: 2000,
+                		updateInterval: 3600000,
+                		updateIntervalLive: 6000,
+                		colored: true,
+                		focus_on: false,
+		                timeFormat: "dd. HH:mm",
+        		        showHeaderAsIcons: false,
+               			showFooter: true,
+			}
+		},
+            }
 	]
 };
 
