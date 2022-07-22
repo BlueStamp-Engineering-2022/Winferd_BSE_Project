@@ -3,7 +3,7 @@ I will make a mirror that can properly show the weather, time, and other informa
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Winferd Wei | Current Lynbrook High School | Coding | Rising Junior
+| Winferd | Current Lynbrook High School | Coding | Rising Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXE9uwzLLZUdKbw8FF4TG66V8X8Z777Lrh9QHIhtQFJY7j3ySsOm-N00Ql2zrGbmUE4EjXfr7dPgHg3DTJDNBFdZ0HoY48wx-TUAApPk77E1aYO2PzgtPNa_-jbwEIRzmIYdApkXDRDCpr__tGFxKY=s1578-no?authuser=0)
   
